@@ -6,7 +6,7 @@ In this repository,I've implemented two most commonly used algorithms for Topic 
 There are four variations I have implemented:
 
 1. Latent Dirichlet Allocation with Term Frequency.
-2. Latent Dirichlet Allocation with Inverse Document Frequency.
+2. Latent Dirichlet Allocation with Inverse-Document Frequency.
 3. Non-Negative Matrix Factorization with Term Frequency.
 4. Non-Negative Matrix Factorization with Inverse-Document Frequency.
 
