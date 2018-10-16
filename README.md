@@ -10,7 +10,7 @@ There are four variations I have implemented:
 3. Non-Negative Matrix Factorization with Term Frequency.
 4. Non-Negative Matrix Factorization with Inverse-Document Frequency.
 
-Check out the jupyter notebook!
+Check out the jupyter notebook for the code!
 
 
 
