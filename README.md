@@ -1,7 +1,7 @@
 # Topic_Modeling_NLP
 Algorithms for topic modeling of text.
 
-In this repository,I've implemented two most commonly used algorithms for Topic modeling of text with different features.
+In this repository,I've implemented two most commonly used algorithms for Topic modeling of text with different features derived from text.
 
 There are four variations I have implemented:
 
